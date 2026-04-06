@@ -1,11 +1,11 @@
-# PDF to HTML Converter Pro - 使用说明文档
+# skill-pdf-to-html-pro-openclaw - 兼容OpenClaw架构的PDF转HTML专业工具
 
-## 📋 文档信息
-
+### 📋 文档信息
 - **文档版本**: v4.1
 - **最后更新**: 2026-04-06
-- **作者**: 萌新极客教程网. 保留所有权利.
+- **作者**: 萌新极客教程网，保留所有权利.
 - **适用系统**: Windows / macOS / Linux
+- **兼容架构**: OpenClaw
 
 ---
 
